@@ -1,0 +1,395 @@
+@media (max-width: 767px) {
+    #cart-body #dash-secondColumn #cart-table table {
+        width: 100%;
+        font-size: 12px;
+    }
+
+    #gallery .main-banner .register {
+        position: absolute;
+        text-align: center;
+        left: 50%;
+        color: #fff;
+        top: 50%;
+        transform: translate(-50%,-50%);
+        right: auto;
+    }
+
+    .stores-locator-block {
+        margin-bottom: 30px;
+    }
+
+    #contact-info .contact-form form {
+        max-width: 90%;
+        margin: 0 auto;
+        text-align: left;
+    }
+
+    #invoice-body #dash-secondColumn {
+        border: 0;
+    }
+
+    #invoice-body #dash-secondColumn .total-price,
+    #invoice-body #dash-secondColumn ul li {
+        text-align: left;
+    }
+
+    #dash-thirdColumn {
+        margin-top: 30px;
+    }
+
+    .navbar-header {
+        min-height: 110px;
+    }
+
+    nav .navbar-brand {
+        left: 20px;
+        position: relative;
+        top: 13px;
+        transform: none;
+    }
+
+    .navbar-toggle {
+        direction: rtl;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        right: 20px;
+        top: 45px;
+    }
+
+    .navbar-toggle .icon-bar {
+        background-color: #fff;
+        -webkit-transition: all 500ms ease-in-out;
+        transition: all 500ms ease-in-out;
+    }
+
+    .line1 {
+        width: 15px !important;
+    }
+
+    .line2 {
+        width: 20px !important;
+    }
+
+    .line3 {
+        width: 25px !important;
+    }
+
+    .navbar-toggle .icon-bar:nth-child(2) {
+        width: 20px;
+    }
+
+    .navbar-toggle .icon-bar:nth-child(3) {
+        width: 15px;
+    }
+
+    .navbar-toggle .icon-bar:nth-child(4) {
+        width: 25px;
+    }
+
+    nav .navbar-nav {
+        position: relative;
+        margin: 0;
+        padding-bottom: 30px;
+        background-color: rgb(250, 72, 91);
+        padding-top: 15px;
+        padding-left: 15px;
+        padding-right: 30px;
+        border-radius: 5px;
+    }
+
+    nav .menu-top ul {
+        float: none;
+    }
+
+    nav .menu-top ul {
+        float: none;
+        padding: 15px 0 0 15px;
+    }
+
+    nav .menu-top ul li {
+        color: #ffffff;
+        float: none;
+        font-size: 20px;
+        margin: 0 0 15px;
+        padding: 0;
+        border-right: 0;
+        position: relative;
+        border-bottom: 1px solid #e6384b !important;
+        padding-bottom: 10px;
+    }
+
+    nav .menu-top ul li:nth-child(4) i {
+        color: #fff;
+        font-size: 50px;
+    }
+
+    nav .menu-top ul li i span {
+        font-size: 10px;
+        position: absolute;
+        top: 0;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        left: 58px;
+        background-color: #fff;
+        color: #fa485b;
+        border-radius: 50%;
+        text-align: center;
+    }
+
+    nav .menu-top ul li:nth-child(4) i span {
+        font-size: 25px;
+    }
+
+    nav .menu-top ul li:last-child {
+        padding-right: 5px;
+        border: 0;
+        background-color: transparent;
+        margin-right: 15px;
+    }
+
+    nav .menu-top ul li:last-child::before {
+        display: none !important;
+    }
+
+    nav .navbar-nav li a {
+        text-transform: uppercase;
+        color: #fff !important;
+        float: none;
+        font-size: 20px;
+        padding: 0;
+        border-right: 0;
+        position: relative;
+        padding-left: 15px;
+    }
+
+    nav .menu-top ul li i {
+        color: #fff;
+    }
+
+    .nav > li {
+        position: relative;
+        display: block;
+        margin-bottom: 20px;
+        border-bottom: 1px solid #e6384b !important;
+        padding-bottom: 15px;
+    }
+
+    nav .navbar-nav li a:hover {
+        background: none;
+        color: #fff;
+    }
+
+    .nav .open > a,
+    .nav .open > a:focus,
+    .nav .open > a:hover {
+        background-color: transparent;
+        border-color: #e6384b;
+    }
+
+    nav .navbar-nav .main-menu .dropdown-menu {
+        border: 1px solid #fa485b;
+        background: rgba(250, 72, 91, 0.95);
+        box-shadow: none;
+        padding: 15px 30px;
+        left: 0;
+        width: 100%;
+        top: 0;
+        margin-top: 10px;
+    }
+
+    .footer {
+        background: #2f2f2f;
+        color: #fff;
+        width: 100%;
+        display: inline-block;
+        padding: 50px 0;
+    }
+
+    .footer .footer-last {
+        text-align: left;
+        padding-left: 35px;
+        margin-top: 25px;
+    }
+
+    #shop-body h1 {
+        width: 100%;
+    }
+
+    #shop-body h2 {
+        width: 100%;
+    }
+
+    #shop-body .shoponline-block a {}
+
+    #shop-body {
+        padding-top: 50px;
+        padding-bottom: 200px;
+    }
+
+    #shop-body .shoponline-block {
+        min-height: auto;
+        background: none;
+        padding: 15px;
+        border: 0;
+    }
+
+    #shop-center-body .clothes-sections .filter-child ul li {
+        margin-bottom: 50px;
+        border-bottom: 1px solid;
+        padding-bottom: 20px;
+    }
+
+    #shop-center-body .clothes-sections .filter-sub-child ul li {
+        margin-bottom: 50px;
+        border-left: 0 !important;
+        border-right: 0;
+        border-bottom: 1px solid;
+        padding-bottom: 20px;
+    }
+
+    .footer .footer-ul {
+        border: 0 !important;
+    }
+
+    #cart-body #dash-firstColumn {
+        border-right: 0;
+    }
+
+    nav .navbar-nav .main-menu .dropdown-menuu {
+        border: 1px solid #bcc5c6;
+        background: rgba(250, 72, 91, 0.95);
+        box-shadow: none;
+        padding: 15px 10px 15px 30px;
+        left: 0;
+        top: 100%;
+        display: none;
+        position: relative;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    .sub-menu-header {
+        position: relative;
+        top: 0;
+        left: 0;
+        display: none;
+        border: 1px solid #bcc5c6;
+        background: rgba(250, 72, 91, 0.95);
+        box-shadow: none;
+        padding: 15px 10px 15px 30px;
+        width: 100%;
+        text-transform: uppercase;
+        z-index: 9999;
+        margin: 20px 0;
+    }
+
+    nav .navbar-nav .main-menu .dropdown-menuu li {
+        color: #fff;
+        list-style: square;
+        padding: 5px 15px 5px 0;
+        border-bottom: 1px solid #fff;
+        margin: 0 0 10px;
+        font-size: 16px;
+        text-shadow: 1px 0 1px rgba(0, 0, 0, 0.58);
+        position: relative;
+    }
+
+    .filter-child-inner ul li {
+        float: left;
+        min-height: 180px;
+        text-align: center;
+        margin: 0 0 30px;
+    }
+
+    .product-inner .inner-left {
+        border-right: 0;
+    }
+
+    .product-inner .inner-right a {
+        width: 49%;
+    }
+
+    .product-inner .inner-right ul li {
+        float: left;
+        width: 100%;
+        margin-right: 15px;
+    }
+
+    #login-body .right-login form #login-forget,
+    #login-body .right-login form .loginFB,
+    #login-body .right-login form input[type="submit"] {
+        width: 100% !important;
+    }
+
+    #login-body .left-login a {
+        background: #fa475c;
+        color: #fff;
+        background: #fa475c;
+        position: relative;
+        right: 0;
+        top: 0;
+        padding: 10px 15px;
+        text-transform: uppercase;
+        text-shadow: 1px 1px 1px rgba(51, 51, 51, 0.5);
+        width: 100%;
+        display: block;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+@media (min-width:768px) and (max-width:991px) {
+    #login-body .right-login form #login-forget,
+    #login-body .right-login form .loginFB,
+    #login-body .right-login form input[type="submit"] {
+        width: 100% !important;
+    }
+
+    #shop-body h1 {
+        width: 100%;
+    }
+
+    #shop-body h2 {
+        width: 100%;
+    }
+
+    #shop-body .shoponline-block a {
+        position: absolute;
+        bottom: 5px;
+    }
+
+    #shop-body {
+        padding-top: 50px;
+        padding-bottom: 200px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #shop-body .shoponline-block {
+        min-height: 340px;
+        background: none;
+        padding: 15px;
+    }
+
+    .navbar-brand > img {
+        display: block;
+        width: 120px;
+    }
+
+    nav .navbar-nav li a {
+        color: #fff;
+        padding: 30px 8px 60px;
+        text-transform: uppercase;
+    }
+
+    #shop-center-body .clothes-sections .filter-child ul li {
+        margin-bottom: 50px;
+    }
+
+    #shop-center-body .clothes-sections .filter-sub-child ul li {
+        margin-bottom: 50px;
+    }
+}
+@media (min-width:992px) and (max-width:1199px) {}
+@media (min-width:1200px) {}
